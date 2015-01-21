@@ -103,13 +103,14 @@ public final class R {
         public static final int new_game_label=0x7f0a0019;
         public static final int new_game_title=0x7f0a001a;
         public static final int no_moves_label=0x7f0a001b;
-        public static final int settings_label=0x7f0a001c;
-        public static final int settings_shortcut=0x7f0a001d;
-        public static final int settings_title=0x7f0a001e;
-        public static final int sudoku_label=0x7f0a001f;
-        public static final int title_activity_about_justin=0x7f0a0020;
-        public static final int title_activity_main=0x7f0a0021;
-        public static final int welcome_exclamation=0x7f0a0022;
+        public static final int quit_label=0x7f0a001c;
+        public static final int settings_label=0x7f0a001d;
+        public static final int settings_shortcut=0x7f0a001e;
+        public static final int settings_title=0x7f0a001f;
+        public static final int sudoku_label=0x7f0a0020;
+        public static final int title_activity_about_justin=0x7f0a0021;
+        public static final int title_activity_main=0x7f0a0022;
+        public static final int welcome_exclamation=0x7f0a0023;
     }
     public static final class xml {
         public static final int settings=0x7f050000;

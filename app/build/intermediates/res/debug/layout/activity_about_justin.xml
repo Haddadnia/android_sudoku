@@ -16,7 +16,7 @@
     <TextView android:text="@string/justin_name_full"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="20dip"
+        android:layout_marginBottom="15dip"
         android:textSize="26sp" />
 
     <ImageView
