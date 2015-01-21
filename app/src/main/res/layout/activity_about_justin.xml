@@ -1,0 +1,69 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="org.example.sudoku.MainActivity"
+    android:background="@color/background"
+    android:gravity="center"
+    android:padding="30dip">
+
+
+
+    <TextView android:text="@string/justin_name_full"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="15dip"
+        android:textSize="26sp" />
+
+    <ImageView
+        android:layout_width="100dip"
+        android:layout_height="100dip"
+        android:src="@drawable/ic_profile_picture"
+        android:layout_marginBottom="10dip" />
+
+    <TextView android:text="@string/justin_degree_program"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dip"
+        android:textSize="20sp" />
+    <TextView android:text="@string/justin_year_in_school"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="60dip"
+        android:textSize="15sp" />
+
+    <TextView android:text="@string/justin_email_hotmail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dip"
+        android:textSize="15sp" />
+    <TextView android:text="@string/justin_email_husky"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dip"
+        android:textSize="15sp" />
+
+    <TextView android:text="@string/justin_phone_id"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dip"
+        android:textSize="15sp" />
+
+
+
+<!--
+
+    <string name="justin_email_hotmail">jhaddadnia@hotmail.com</string>
+    <string name="justin_email_husky">haddadnia.j@husky.neu.edu</string>
+    <string name="justin_year_in_school">Senior</string>
+    <string name="justin_degree_program">Computer Engineering</string>
+    <string name="justin_phone_id">IMEI: 013440008884721</string>
+    -->
+
+
+</LinearLayout>
+
